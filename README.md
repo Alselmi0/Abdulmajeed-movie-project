@@ -13,7 +13,6 @@ As you can see, the only thing you received from us is a bunch of `.md` (Markdow
 1. Setup - This page contains the steps you need to setup the project. **Only one of you will do it, while the others watch and support them**
 2. Requirements - This page contains the requirements that you need to do for the project.
 3. Presentation - This page contains the requirements that you need to do when presenting.
-4. Score guide - We're introducing a new score system. This page contains the breakdown of the score.
 
 To make the best use of this Wiki, go first to the requirements, understand them, then go to the score guide, understand it, then finally head to the setup page so you can do the setup with everything in mind.
 
